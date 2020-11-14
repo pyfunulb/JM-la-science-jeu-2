@@ -1,0 +1,6 @@
+(1, 2), ("Le lapin de Caerbannog.\nSur un tas d'ossements, il a l'air redoutable", "Sainte grenade")
+(3, 4), ("Le chevalier du Ni.\nIl attend une fleur pour son bosquet","Tulipe")
+(4, 2), ("Le chevalier noir.\nSortir votre épée ? (taper O)","O")
+(7, 3), ("Le sage du pont.\nQuelle est la vitesse d'une hirondelle au vol ?","D'Europe ou d'Afrique ?")
+(8, 4), ("A quel film des Monty Python ce donjon fait référence ?", "Sacré Graal")
+(4, 8), ("Qui possède plusieurs Graal ?", "Les français")
