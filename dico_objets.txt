@@ -1,0 +1,5 @@
+(1, 2), "Sainte grenade"
+(5, 1), "Tulipe"
+(1, 5), "D'Europe ou d'Afrique ?"
+(2, 8), "Film : Sacré Graal"
+(9, 7), "Les français ont 8 Graal"
